@@ -1,1 +1,71 @@
+16784144129651
+footprint
+2PIN
+22-04-1021
+Connector
 0
+2
+2
+footprint
+24V_PAD
+
+
+0
+2
+2
+footprint
+SHIFT_DATA_TOSS
+
+
+0
+8
+8
+footprint
+SOIC127P600X175-16N
+16 Narrow SO
+Integrated Circuit
+0
+16
+16
+footprint
+SOIC127P1030X265-16N
+16-Pin SOIC-1
+Power Supply
+0
+16
+16
+footprint
+SOIC127P1031X265-8N
+W8MS+5_1
+Integrated Circuit
+0
+8
+8
+footprint
+SOP65P640X110-20N
+SOT360-1
+Integrated Circuit
+0
+20
+20
+footprint
+TPN22006NHLQ
+2-3X1S
+MOSFET (N-Channel)
+0
+9
+9
+footprint
+input_pad
+
+
+0
+12
+12
+footprint
+sol_pad
+
+
+0
+4
+4
