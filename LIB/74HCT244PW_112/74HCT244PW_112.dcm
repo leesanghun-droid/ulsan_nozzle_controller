@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HCT244PW,112
+D 74HC244; 74HCT244 - Octal buffer/line driver; 3-state@en-us
+K
+F https://assets.nexperia.com/documents/data-sheet/74HC_HCT244.pdf
+$ENDCMP
+#
+#End Doc Library

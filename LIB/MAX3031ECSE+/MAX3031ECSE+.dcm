@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX3031ECSE+
+D MAXIM INTEGRATED PRODUCTS - MAX3031ECSE+ - Transmitter RS422, 3V-3.6V supply, 4 Drivers, NSOIC-16
+K
+F https://pdfserv.maximintegrated.com/en/ds/MAX3030E-MAX3033E.pdf
+$ENDCMP
+#
+#End Doc Library

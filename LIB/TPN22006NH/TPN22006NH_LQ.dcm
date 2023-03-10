@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPN22006NH,LQ
+D MOSFET N-Ch 60V 21A 18W UMOSVIII 710pF 12nC
+K
+F https://toshiba.semicon-storage.com/ap-en/product/mosfet/detail.TPN22006NH.html
+$ENDCMP
+#
+#End Doc Library

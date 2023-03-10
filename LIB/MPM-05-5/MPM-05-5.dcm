@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MPM-05-5
+D AC/DC Power Modules 5W 5V 1A Medical Enclosed PS
+K
+F http://www.meanwell.com/Upload/PDF/MPM-05/MPM-05-SPEC.PDF
+$ENDCMP
+#
+#End Doc Library

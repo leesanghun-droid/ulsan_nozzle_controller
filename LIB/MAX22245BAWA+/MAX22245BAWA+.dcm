@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX22245BAWA+
+D Reinforced, Fast, Low-Power, Two-Channel Digital Isolators, 8-Wide-SOIC
+K
+F https://datasheets.maximintegrated.com/en/ds/MAX22245-MAX22246.pdf
+$ENDCMP
+#
+#End Doc Library

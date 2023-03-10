@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX3094EESE+
+D Low-Power Quad RS-422/485 Receiver
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-18/DSA-340267.pdf
+$ENDCMP
+#
+#End Doc Library
