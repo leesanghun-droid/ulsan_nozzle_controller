@@ -42795,7 +42795,7 @@
     (property "Value" "TPN22006NH,LQ" (at 757.555 640.715 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "TPN22006NH:TPN22006NHLQ" (at 766.445 643.255 0)
+    (property "Footprint" "footprint:TPN22006NHLQ" (at 766.445 643.255 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "https://toshiba.semicon-storage.com/ap-en/product/mosfet/detail.TPN22006NH.html" (at 766.445 645.795 0)
