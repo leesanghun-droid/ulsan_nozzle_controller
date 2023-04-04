@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "MAX3094")(type "Legacy")(uri "${KIPRJMOD}/LIB/MAX3094EESE+/MAX3094EESE+.lib")(options "")(descr ""))
   (lib (name "2pin")(type "Legacy")(uri "${KIPRJMOD}/LIB/5045-02/22-04-1021.lib")(options "")(descr ""))
+  (lib (name "ffc_60PIN")(type "KiCad")(uri "${KIPRJMOD}/LIB/FFC_60PIN_UP/FFC_60PIN_UP.kicad_sym")(options "")(descr ""))
 )
